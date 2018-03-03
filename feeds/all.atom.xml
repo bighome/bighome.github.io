@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>小而强大</title><link href="/" rel="alternate"></link><link href="https://weibo.com/smallgood/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2018-03-03T00:00:00+08:00</updated><entry><title>OpenSimWheel</title><link href="/opensimwheel.html" rel="alternate"></link><published>2018-03-03T00:00:00+08:00</published><updated>2018-03-03T00:00:00+08:00</updated><author><name>Xiao Er Qiang Da</name></author><id>tag:None,2018-03-03:/opensimwheel.html</id><summary type="html">&lt;p&gt;自制模拟赛车方向盘，它是一个自制教程&lt;/p&gt;</summary><content type="html">&lt;p&gt;DIY模拟方向盘，使用OpenSimWheel&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>小而强大</title><link href="/" rel="alternate"></link><link href="https://weibo.com/smallgood/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2018-03-10T00:00:00+08:00</updated><entry><title>Duck</title><link href="/duck.html" rel="alternate"></link><published>2018-03-10T00:00:00+08:00</published><updated>2018-03-10T00:00:00+08:00</updated><author><name>Xiao Er Qiang Da</name></author><id>tag:None,2018-03-10:/duck.html</id><summary type="html">&lt;p&gt;基于Qt的插件式开发框架，他是一个简易的插件框架，所有业务由插件处理，与主框架无关，也可以把他称为程序的集合。&lt;/p&gt;</summary><content type="html">&lt;script src='//gitee.com/penghongbin/QFrameWork/widget_preview'&gt;&lt;/script&gt;
+
+&lt;style&gt;
+.pro_name a{color: #4183c4;}
+.osc_git_title{background-color: #fff;}
+.osc_git_box{background-color: #fff;}
+.osc_git_box{border-color: #E3E9ED;}
+.osc_git_info{color: #666;}
+.osc_git_main a{color: #9B9B9B;}
+&lt;/style&gt;</content></entry><entry><title>OpenSimWheel</title><link href="/opensimwheel.html" rel="alternate"></link><published>2018-03-09T00:00:00+08:00</published><updated>2018-03-09T00:00:00+08:00</updated><author><name>Xiao Er Qiang Da</name></author><id>tag:None,2018-03-09:/opensimwheel.html</id><summary type="html">&lt;p&gt;自制模拟赛车方向盘，它是一个自制教程&lt;/p&gt;</summary><content type="html">&lt;p&gt;DIY模拟方向盘，使用OpenSimWheel&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;使用国产驱动&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -189,4 +198,49 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h3&gt;7、感谢&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="图片发自简书App" src="http://upload-images.jianshu.io/upload_images/1251380-651f30ea3ec59fda.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1600/q/50"&gt;&lt;/p&gt;</content></entry></feed>
+&lt;p&gt;&lt;img alt="图片发自简书App" src="http://upload-images.jianshu.io/upload_images/1251380-651f30ea3ec59fda.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1600/q/50"&gt;&lt;/p&gt;</content></entry><entry><title>BanWaGongDashboard</title><link href="/banwagongdashboard.html" rel="alternate"></link><published>2018-03-06T00:00:00+08:00</published><updated>2018-03-06T00:00:00+08:00</updated><author><name>Xiao Er Qiang Da</name></author><id>tag:None,2018-03-06:/banwagongdashboard.html</id><summary type="html">&lt;p&gt;Bandwagon(搬瓦工) vps 监控&lt;/p&gt;</summary><content type="html">&lt;script src='//gitee.com/scphbin/BanWaGongDashboard/widget_preview'&gt;&lt;/script&gt;
+
+&lt;style&gt;
+.pro_name a{color: #4183c4;}
+.osc_git_title{background-color: #fff;}
+.osc_git_box{background-color: #fff;}
+.osc_git_box{border-color: #E3E9ED;}
+.osc_git_info{color: #666;}
+.osc_git_main a{color: #9B9B9B;}
+&lt;/style&gt;</content></entry><entry><title>MaMaHaoCai</title><link href="/mamahaocai.html" rel="alternate"></link><published>2018-03-05T00:00:00+08:00</published><updated>2018-03-05T00:00:00+08:00</updated><author><name>Xiao Er Qiang Da</name></author><id>tag:None,2018-03-05:/mamahaocai.html</id><summary type="html">&lt;p&gt;基于ThinkPHP 订餐平台&lt;/p&gt;</summary><content type="html">&lt;script src='//gitee.com/penghongbin/mamahaocai/widget_preview'&gt;&lt;/script&gt;
+
+&lt;style&gt;
+.pro_name a{color: #4183c4;}
+.osc_git_title{background-color: #fff;}
+.osc_git_box{background-color: #fff;}
+.osc_git_box{border-color: #E3E9ED;}
+.osc_git_info{color: #666;}
+.osc_git_main a{color: #9B9B9B;}
+&lt;/style&gt;</content></entry><entry><title>Sim6dfTools</title><link href="/sim6dftools.html" rel="alternate"></link><published>2018-03-04T00:00:00+08:00</published><updated>2018-03-04T00:00:00+08:00</updated><author><name>Xiao Er Qiang Da</name></author><id>tag:None,2018-03-04:/sim6dftools.html</id><summary type="html">&lt;p&gt;模拟座舱控制软件，是一个插件式框架，包含游戏插件和硬件控制插件&lt;/p&gt;</summary><content type="html">&lt;script src='//gitee.com/scphbin/SIM_6DOF_Tools/widget_preview'&gt;&lt;/script&gt;
+
+&lt;style&gt;
+.pro_name a{color: #4183c4;}
+.osc_git_title{background-color: #fff;}
+.osc_git_box{background-color: #fff;}
+.osc_git_box{border-color: #E3E9ED;}
+.osc_git_info{color: #666;}
+.osc_git_main a{color: #9B9B9B;}
+&lt;/style&gt;</content></entry><entry><title>G Widget</title><link href="/g-widget.html" rel="alternate"></link><published>2018-03-03T00:00:00+08:00</published><updated>2018-03-03T00:00:00+08:00</updated><author><name>Xiao Er Qiang Da</name></author><id>tag:None,2018-03-03:/g-widget.html</id><summary type="html">&lt;p&gt;G力控件 Qt&lt;/p&gt;</summary><content type="html">&lt;script src='//gitee.com/penghongbin/G-windget/widget_preview'&gt;&lt;/script&gt;
+
+&lt;style&gt;
+.pro_name a{color: #4183c4;}
+.osc_git_title{background-color: #fff;}
+.osc_git_box{background-color: #fff;}
+.osc_git_box{border-color: #E3E9ED;}
+.osc_git_info{color: #666;}
+.osc_git_main a{color: #9B9B9B;}
+&lt;/style&gt;</content></entry><entry><title>SimDashboard</title><link href="/simdashboard.html" rel="alternate"></link><published>2018-03-02T00:00:00+08:00</published><updated>2018-03-02T00:00:00+08:00</updated><author><name>Xiao Er Qiang Da</name></author><id>tag:None,2018-03-02:/simdashboard.html</id><summary type="html">&lt;p&gt;模拟赛车游戏手机仪表盘&lt;/p&gt;</summary><content type="html">&lt;script src='//gitee.com/penghongbin/SimDashboard/widget_preview'&gt;&lt;/script&gt;
+
+&lt;style&gt;
+.pro_name a{color: #4183c4;}
+.osc_git_title{background-color: #fff;}
+.osc_git_box{background-color: #fff;}
+.osc_git_box{border-color: #E3E9ED;}
+.osc_git_info{color: #666;}
+.osc_git_main a{color: #9B9B9B;}
+&lt;/style&gt;</content></entry><entry><title>Bus-FM</title><link href="/bus-fm.html" rel="alternate"></link><published>2018-03-01T00:00:00+08:00</published><updated>2018-03-01T00:00:00+08:00</updated><author><name>Xiao Er Qiang Da</name></author><id>tag:None,2018-03-01:/bus-fm.html</id><summary type="html">&lt;p&gt;Bus.fm（现 落网 luoo.net）  第三方桌面客户端。停止更新&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a href="https://github.com/bighome/Bus-FM/wiki"&gt;项目地址&lt;/a&gt;&lt;/p&gt;</content></entry></feed>
