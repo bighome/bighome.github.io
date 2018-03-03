@@ -1,5 +1,6 @@
-Title: OpenSimWheel
+﻿Title: OpenSimWheel
 Date: 2018-03-03
+Summary: 自制模拟赛车方向盘，它是一个自制教程
 
 
 DIY模拟方向盘，使用OpenSimWheel
